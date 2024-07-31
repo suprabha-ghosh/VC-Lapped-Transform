@@ -1,10 +1,10 @@
 # DCT-Lapped LPIPS Compression Ratio
 
-This project explores a novel approach to audio compression by combining Discrete Cosine Transform (DCT) and Lapped Orthogonal Transform (LOT) techniques with the Learned Perceptual Image Patch Similarity (LPIPS) metric. The aim is to optimize compression ratios while preserving perceptual audio quality.
+This project explores a novel approach to audio compression by combining Discrete Cosine Transform (DCT) and Lapped Transform (LT) techniques with the Learned Perceptual Image Patch Similarity (LPIPS) metric. The aim is to optimize compression ratios while preserving perceptual audio quality.
 
 ## Overview
 
-The project investigates how DCT and LOT can be employed to compress audio signals efficiently and evaluates the quality of the compressed audio using the LPIPS metric. This approach helps in understanding the trade-offs between compression efficiency and perceived audio quality.
+The project investigates how DCT and LT can be employed to compress audio signals efficiently and evaluates the quality of the compressed audio using the LPIPS metric. This approach helps in understanding the trade-offs between compression efficiency and perceived audio quality.
 
 ## Features
 
