@@ -45,8 +45,10 @@ PATH_GRAY_LAP = '/home/jupyter-64365/VC_Seminar_Project/gray-lapped'
 # CSV output paths
 PATH_COLOR_RATIO = '/home/jupyter-64365/VC_Seminar_Project/color_com_ratio.csv'
 PATH_GRAY_RATIO = '/home/jupyter-64365/VC_Seminar_Project/gray_com_ratio.csv'
-PATH_COLOR_LPIPS = '/home/jupyter-64365/VC_Seminar_Project/color_lpips_results_dct.csv'
-PATH_GRAY_LPIPS = '/home/jupyter-64365/VC_Seminar_Project/color_lpips_results_Lapped.csv'
+PATH_COLOR_LPIPS_DCT = '/home/jupyter-64365/VC_Seminar_Project/color_lpips_results_dct.csv'
+PATH_COLOR_LPIPS_LAPPED = '/home/jupyter-64365/VC_Seminar_Project/color_lpips_results_Lapped.csv'
+PATH_GRAY_LPIPS_DCT = '/home/jupyter-64365/VC_Seminar_Project/gray_lpips_results_dct.csv'
+PATH_GRAY_LPIPS_LAPPED = '/home/jupyter-64365/VC_Seminar_Project/gray_lpips_results_Lapped.csv'
 ```
 
 Ensure these paths match your local or remote directory structure.
